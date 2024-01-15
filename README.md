@@ -88,6 +88,7 @@
 * [Lessons Learned: Running Presto at Meta Scale](https://developers.facebook.com/blog/post/2023/04/11/running-presto-at-meta-scale/)
 * [Uncovering the Unknown Unknown](https://developers.facebook.com/blog/post/2023/05/16/uncovering-the-unknown-unknown/)
 * [Inside Meta's AI optimization platform for engineers across the company](https://ai.meta.com/blog/looper-meta-ai-optimization-platform-for-engineers/)
+* [Using Chakra execution traces for benchmarking and network performance optimization](https://engineering.fb.com/2023/09/07/networking-traffic/chakra-execution-traces-benchmarking-network-performance-optimization/)
 
 ### Twitter(X)
 
@@ -95,3 +96,67 @@
 * [Powering real-time data analytics with Druid at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter)
 * [Observability at Twitter: technical overview, part I](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-i)
 * [Observability at Twitter: technical overview, part II](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-ii)
+
+### LinkedIn
+
+* [Monitoring business performance data with ThirdEye smart alerts](https://engineering.linkedin.com/blog/2020/monitoring-business-performance-data-with-thirdeye-smart-alerts)
+* [Analyzing anomalies with ThirdEye](https://engineering.linkedin.com/blog/2020/analyzing-anomalies-with-thirdeye)
+* [Smart alerts in ThirdEye, LinkedIn’s real-time monitoring platform](https://engineering.linkedin.com/blog/2019/06/smart-alerts-in-thirdeye--linkedins-real-time-monitoring-platfor)
+* [InGraphs: Monitoring and Unexpected Artwork](https://engineering.linkedin.com/blog/2017/08/ingraphs--monitoring-and-unexpected-artwork)
+* [Open Sourcing Kafka Cruise Control](https://engineering.linkedin.com/blog/2017/08/open-sourcing-kafka-cruise-control)
+* [Samza Aeon: Latency Insights for Asynchronous One-Way Flows](https://engineering.linkedin.com/blog/2018/04/samza-aeon--latency-insights-for-asynchronous-one-way-flows)
+* [inMesh: Real-Time Monitoring of Remote Sites](https://engineering.linkedin.com/blog/2016/04/inmesh--real-time-monitoring-of-remote-sites)
+* [InFlow - Making the LinkedIn network visible](https://engineering.linkedin.com/blog/2016/03/inflow---making-the-linkedin-network-visible)
+* [Burrow: Kafka Consumer Monitoring Reinvented](https://engineering.linkedin.com/apache-kafka/burrow-kafka-consumer-monitoring-reinvented)
+* [Scaling the collection of self-service metrics](https://engineering.linkedin.com/metrics/scaling-collection-self-service-metrics)
+* [https://engineering.linkedin.com/metrics/scaling-collection-self-service-metrics]
+
+### Spotify
+
+* [Monitoring at Spotify: The Story So Far](https://engineering.atspotify.com/2015/11/monitoring-at-spotify-the-story-so-far/)
+* [Analyzing Volatile Memory on a Google Kubernetes Engine Node](https://engineering.atspotify.com/2023/06/analyzing-volatile-memory-on-a-google-kubernetes-engine-node/)
+* [Monitoring at Spotify: Introducing Heroic](https://engineering.atspotify.com/2015/11/monitoring-at-spotify-introducing-heroic/)
+
+## Git
+
+### LinkedIn
+
+* [How LinkedIn handles merging code in high-velocity repositories](https://engineering.linkedin.com/blog/2020/continuous-integration)
+* [Accelerating Code Delivery By 97% With Yarn Workspaces](https://engineering.linkedin.com/blog/2022/accelerating-code-delivery-by-97--with-yarn-workspaces)
+* [How LinkedIn automates cherry-picking commits to improve developer productivity](https://engineering.linkedin.com/blog/2023/how-linkedin-automates-cherry-picking-commits-to-improve-develop)
+* [Effective Code Reviews and File Ownerships](https://engineering.linkedin.com/blog/2016/01/effective-code-reviews-and-file-ownerships)
+
+### Netflix
+
+* [Introducing HubCommander](https://netflixtechblog.com/introducing-hubcommander-1774d8f08fc6)
+* [Towards true continuous integration: distributed repositories and dependencies](https://netflixtechblog.com/towards-true-continuous-integration-distributed-repositories-and-dependencies-2a2e3108c051)
+
+### Meta
+
+* [Sapling: Source control that’s user-friendly and scalable](https://engineering.fb.com/2022/11/15/open-source/sapling-source-control-scalable/)
+* [Build faster with Buck2: Our open source build system](https://engineering.fb.com/2023/04/06/open-source/buck2-open-source-large-scale-build-system/)
+* [Meta developer tools: Working at scale](https://engineering.fb.com/2023/06/27/developer-tools/meta-developer-tools-open-source/)
+* [A Meta developer's workflow: Exploring the tools used to code at scale](https://developers.facebook.com/blog/post/2022/11/15/meta-developers-workflow-exploring-tools-used-to-code/)
+
+### Google
+
+* [Why Google Stores Billions of Lines of Code in a Single Repository](https://research.google/pubs/why-google-stores-billions-of-lines-of-code-in-a-single-repository/)
+
+
+### Uber
+
+* [Faster Together: Uber Engineering’s iOS Monorepo](https://www.uber.com/blog/ios-monorepo/?uclick_id=4f040ea4-5355-40cf-bbbb-3b1bc3e808c7)
+* [Building Uber’s Go Monorepo with Bazel](https://www.uber.com/blog/go-monorepo-bazel/?uclick_id=4f040ea4-5355-40cf-bbbb-3b1bc3e808c7)
+* [The Journey To Android Monorepo: The History Of Uber Engineering’s Android Codebase Organization](https://www.uber.com/blog/android-engineering-code-monorepo/?uclick_id=4f040ea4-5355-40cf-bbbb-3b1bc3e808c7)
+* [How We Halved Go Monorepo CI Build Time](https://www.uber.com/blog/how-we-halved-go-monorepo-ci-build-time/?uclick_id=4f040ea4-5355-40cf-bbbb-3b1bc3e808c7)
+
+### Twitter
+
+* [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter)
+* [The release of Pants 1.0](https://blog.twitter.com/engineering/en_us/a/2016/the-release-of-pants-10)
+
+### Spotify
+
+* [Fleet Management at Spotify (Part 1): Spotify’s Shift to a Fleet-First Mindset](https://engineering.atspotify.com/2023/04/spotifys-shift-to-a-fleet-first-mindset-part-1/)
+* [Fleet Management at Spotify (Part 2): The Path to Declarative Infrastructure](https://engineering.atspotify.com/2023/05/fleet-management-at-spotify-part-2-the-path-to-declarative-infrastructure/)
+* [Fleet Management at Spotify (Part 3): Fleet-wide Refactoring](https://engineering.atspotify.com/2023/05/fleet-management-at-spotify-part-3-fleet-wide-refactoring/)
