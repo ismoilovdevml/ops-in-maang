@@ -1,4 +1,4 @@
-## Big Technologys
+## Ops In MAANG
 
 ## Rust
 
@@ -77,3 +77,21 @@
 * [Scryer: Netflix’s Predictive Auto Scaling Engine Part1](https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-a3f8fc922270)
 * [Scryer: Netflix’s Predictive Auto Scaling Engine — Part 2](https://netflixtechblog.com/scryer-netflixs-predictive-auto-scaling-engine-part-2-bb9c4f9b9385)
 * [A Microscope on Microservices](https://netflixtechblog.com/a-microscope-on-microservices-923b906103f4)
+
+### Meta
+
+* [AI debugging at Meta with HawkEye](https://engineering.fb.com/2023/12/19/data-infrastructure/hawkeye-ai-debugging-meta/)
+* [BUILDING RESILIENT MONITORING AT META](https://atscaleconference.com/building-resilient-monitoring-at-meta/)
+* [Dynolog: Open source system observability](https://developers.facebook.com/blog/post/2022/11/16/dynolog-open-source-system-observability/)
+* [Below: a time travelling resource monitoring tool](https://developers.facebook.com/blog/post/2021/09/21/below-time-travelling-resource-monitoring-tool/)
+* [Resource Control Demo: Better Resource Control with Simulation](https://developers.facebook.com/blog/post/2022/05/24/resource-control-demo-with-simulation/)
+* [Lessons Learned: Running Presto at Meta Scale](https://developers.facebook.com/blog/post/2023/04/11/running-presto-at-meta-scale/)
+* [Uncovering the Unknown Unknown](https://developers.facebook.com/blog/post/2023/05/16/uncovering-the-unknown-unknown/)
+* [Inside Meta's AI optimization platform for engineers across the company](https://ai.meta.com/blog/looper-meta-ai-optimization-platform-for-engineers/)
+
+### Twitter(X)
+
+* [Twitter’s Blobstore Hardware Lifecycle Monitoring and Reporting Service](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2023/twitters-blobstore-hardware-lifecycle-monitoring-and-reporting-service)
+* [Powering real-time data analytics with Druid at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2022/powering-real-time-data-analytics-with-druid-at-twitter)
+* [Observability at Twitter: technical overview, part I](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-i)
+* [Observability at Twitter: technical overview, part II](https://blog.twitter.com/engineering/en_us/a/2016/observability-at-twitter-technical-overview-part-ii)
