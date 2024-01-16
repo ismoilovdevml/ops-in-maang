@@ -1,5 +1,9 @@
 ## Ops In MAANG
 
+Welcome to the **Ops in MAANG** repository, a curated collection of articles, manuals, and research blogs from the engineering realms of top-tier technology companies - **M**eta(Facebook), **A**mazon (AWS), **A**pple, **N**etflix, and **G**oogle. This carefully curated repository combines a wealth of engineering and research insights, manuals, and projects directly sourced from the esteemed engineering blogs of MAANG giants. Whether you're a seasoned practitioner looking to fine-tune your skills or a newcomer eager to dive into the world of cutting-edge technology, this repository serves as your go-to guide.
+
+> Act now MAANG is waiting for you
+
 ## Rust
 
 ### Meta
@@ -109,7 +113,6 @@
 * [InFlow - Making the LinkedIn network visible](https://engineering.linkedin.com/blog/2016/03/inflow---making-the-linkedin-network-visible)
 * [Burrow: Kafka Consumer Monitoring Reinvented](https://engineering.linkedin.com/apache-kafka/burrow-kafka-consumer-monitoring-reinvented)
 * [Scaling the collection of self-service metrics](https://engineering.linkedin.com/metrics/scaling-collection-self-service-metrics)
-* [https://engineering.linkedin.com/metrics/scaling-collection-self-service-metrics]
 
 ### Spotify
 
