@@ -189,3 +189,37 @@ Welcome to the **Ops in MAANG** repository, a curated collection of articles, ma
 * [Titus, the Netflix container management platform, is now open source](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
 * [Updates on Netflix’s Container Management Platform](https://netflixtechblog.com/updates-on-netflixs-container-management-platform-a91738360bd8)
 * [The Evolution of Container Usage at Netflix](https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b)
+
+### Uber
+
+* [Containerizing Apache Hadoop Infrastructure at Uber](https://www.uber.com/blog/hadoop-container-blog/)
+* [uBuild: Fast and Safe Building of Thousands of Container Images](https://www.uber.com/blog/ubuild-fast-and-safe-building-of-thousands-of-container-images/)
+* [Containerizing the Beast – Hadoop NameNodes in Uber’s Infrastructure](https://www.uber.com/blog/hadoop-namenode-container/)
+* [Devpod: Improving Developer Productivity at Uber with Remote Development](https://www.uber.com/blog/devpod-improving-developer-productivity-at-uber/)
+* [Up: Portable Microservices Ready for the Cloud](https://www.uber.com/blog/up-portable-microservices-ready-for-the-cloud/)
+* [Introducing Makisu: Uber’s Fast, Reliable Docker Image Builder for Apache Mesos and Kubernetes](https://www.uber.com/blog/makisu/)
+* [Efficient and Reliable Compute Cluster Management at Scale](https://www.uber.com/blog/compute-cluster-management/)
+* [Dockerizing MySQL at Uber Engineering](https://www.uber.com/blog/dockerizing-mysql/)
+* [Uber’s Highly Scalable and Distributed Shuffle as a Service](https://www.uber.com/en-IN/blog/ubers-highly-scalable-and-distributed-shuffle-as-a-service/)
+* [Uber Engineering’s Micro Deploy: Deploying Daily with Confidence](https://www.uber.com/blog/micro-deploy-code/)
+
+### Spotify
+
+* [Designing a Better Kubernetes Experience for Developers](https://engineering.atspotify.com/2021/03/designing-a-better-kubernetes-experience-for-developers/)
+* [Analyzing Volatile Memory on a Google Kubernetes Engine Node](https://engineering.atspotify.com/2023/06/analyzing-volatile-memory-on-a-google-kubernetes-engine-node/)
+
+### OpenAI
+
+* [Scaling Kubernetes to 2,500 nodes](https://openai.com/research/scaling-kubernetes-to-2500-nodes)
+* [Scaling Kubernetes to 7,500 nodes](https://openai.com/research/scaling-kubernetes-to-7500-nodes)
+
+### Twitter(X)
+
+* [The Infrastructure Behind Twitter: Scale](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2017/the-infrastructure-behind-twitter-scale)
+
+### Meta
+
+* [Efficient, reliable cluster management at scale with Twine](https://engineering.fb.com/2019/06/06/data-center-engineering/twine/)
+* [Containerizing ZooKeeper with Twine: Powering container orchestration from within](https://engineering.fb.com/2020/08/31/developer-tools/zookeeper-twine/)
+* [Building a ubiquitous shared infrastructure using Twine](https://engineering.fb.com/2020/11/11/data-center-engineering/twine-2/)
+* [Under the hood: Meta’s cloud gaming infrastructure](https://engineering.fb.com/2022/06/09/web/cloud-gaming-infrastructure/)
