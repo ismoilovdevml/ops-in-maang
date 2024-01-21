@@ -163,3 +163,29 @@ Welcome to the **Ops in MAANG** repository, a curated collection of articles, ma
 * [Fleet Management at Spotify (Part 1): Spotify’s Shift to a Fleet-First Mindset](https://engineering.atspotify.com/2023/04/spotifys-shift-to-a-fleet-first-mindset-part-1/)
 * [Fleet Management at Spotify (Part 2): The Path to Declarative Infrastructure](https://engineering.atspotify.com/2023/05/fleet-management-at-spotify-part-2-the-path-to-declarative-infrastructure/)
 * [Fleet Management at Spotify (Part 3): Fleet-wide Refactoring](https://engineering.atspotify.com/2023/05/fleet-management-at-spotify-part-3-fleet-wide-refactoring/)
+
+## Container & Kubernetes
+
+### Linkedin
+
+* [Open sourcing Kube2Hadoop: Secure access to HDFS from Kubernetes
+](https://engineering.linkedin.com/blog/2020/open-sourcing-kube2hadoop)
+
+* [Scaling LinkedIn's Hadoop YARN cluster beyond 10,000 nodes](https://engineering.linkedin.com/blog/2021/scaling-linkedin-s-hadoop-yarn-cluster-beyond-10-000-nodes)
+
+* [Benchmarking Apache Samza: 1.2 million messages per second on a single node](https://engineering.linkedin.com/blog/2015/08/benchmarking-apache-samza--1-2-million-messages-per-second-on-a-)
+* [Asynchronous Processing and Multithreading in Apache Samza, Part I: Design and Architecture](https://engineering.linkedin.com/blog/2017/01/asynchronous-processing-and-multithreading-in-apache-samza--part)
+* [Asynchronous Processing and Multithreading in Apache Samza, Part II: Experiments and Evaluation](https://engineering.linkedin.com/blog/2017/01/asynchronous-processing-and-multithreading-in-apache-samza--part0)
+* [Stream processing with Apache Samza - Current and Future](https://engineering.linkedin.com/blog/2016/01/whats-new-samza)
+* [Automating Large-Scale Application Build](https://engineering.linkedin.com/blog/2016/05/automating-large-scale-application-build-)
+
+### Netflix
+
+* [Kubernetes And Kernel Panics](https://netflixtechblog.com/kubernetes-and-kernel-panics-ed620b9c6225)
+* [Evolving Container Security With Linux User Namespaces](https://netflixtechblog.com/evolving-container-security-with-linux-user-namespaces-afbe3308c082)
+* [Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
+* [Extending Vector with eBPF to inspect host and container performance](https://netflixtechblog.com/extending-vector-with-ebpf-to-inspect-host-and-container-performance-5da3af4c584b)
+* [Auto Scaling Production Services on Titus](https://netflixtechblog.com/auto-scaling-production-services-on-titus-1f3cd49f5cd7)
+* [Titus, the Netflix container management platform, is now open source](https://netflixtechblog.com/titus-the-netflix-container-management-platform-is-now-open-source-f868c9fb5436)
+* [Updates on Netflix’s Container Management Platform](https://netflixtechblog.com/updates-on-netflixs-container-management-platform-a91738360bd8)
+* [The Evolution of Container Usage at Netflix](https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b)
